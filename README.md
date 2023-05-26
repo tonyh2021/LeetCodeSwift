@@ -1,3 +1,3 @@
 # LeetCodeSwift
 
-## Leet Code sulution with Swift.
+## Leet Code solution with Swift.
