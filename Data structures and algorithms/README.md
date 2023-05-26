@@ -1,9 +1,9 @@
 # Data structures and algorithms
 
-## 1. [Complexity](./complexity.md)
+## [1. Complexity](./01_complexity.md)
 
 
-## 2. Sorting
+## [2. Sorting](./02_sorting.md)
 
 
-## 3. LinkedList
+## [3. LinkedList](./03_linkedlist.md)
