@@ -18,7 +18,7 @@ for i in 1...n {
 }
 ```
 
-- $$O(n^2)$$
+- O($n^2$)
 
 ```siwft
 for i in 1...n {
