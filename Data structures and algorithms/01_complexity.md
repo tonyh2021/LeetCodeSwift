@@ -15,35 +15,6 @@ x = y
 y = temp
 ```
 
-### O(n)
-
-`Linear`
-
-- Find max element in unsorted array
-- Duplicate elements in array with Hash Map
-
-```siwft
-for i in 1...n {
-    print(i)
-}
-```
-
-### O($n^2$)
-
-`Quadratic`
-
-- Duplicate elements in array
-- Bubble sort
-
-```siwft
-for i in 1...n {
-    print(i)
-    for j in 1...n {
-        print(j)
-    }
-}
-```
-
 ### O(log n)
 
 `Logarithmic`
@@ -54,6 +25,20 @@ for i in 1...n {
 var i = 1
 while(i < n) {
     i = i * 2
+}
+```
+
+### O(n)
+
+`Linear`
+
+- Find max element in unsorted array
+- Duplicate elements in array with Hash Map
+
+```siwft
+for i in 0...n {
+    // do constant time stuff
+    print(i)
 }
 ```
 
@@ -71,6 +56,34 @@ for i in 0...n {
     }
 }
 ```
+
+### O($n^2$)
+
+`Quadratic`
+
+- Duplicate elements in array
+- Bubble sort
+
+```siwft
+for i in 0...n {
+    print(i)
+    for j in 0...n {
+        print(j)
+    }
+}
+```
+
+### O($n^3$)
+
+`Cubic`
+
+### O($2^n$)
+
+`Exponential`
+
+### O(n!)
+
+`Factorial`
 
 ## Space Complexity
 
