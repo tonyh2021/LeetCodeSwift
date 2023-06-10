@@ -67,3 +67,7 @@ func insertionSort(_ array: [Int]) -> [Int] {
     return sortedArray
 }
 ```
+
+## Shell Sort
+
+![Shell Sort](./images/)
